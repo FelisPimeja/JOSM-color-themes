@@ -1,5 +1,5 @@
 ﻿<config>
   <delete path="images"  base="prefs"/>
-  <download url="https://github.com/FelisPimeja/JOSM-color-themes/raw/master/images.zip" path="images.zip" unzip="true" mkdir="true"  base="prefs"/>
+  <download url="https://github.com/FelisPimeja/JOSM-color-themes/raw/master/Monochrome/images.zip" path="images.zip" unzip="true" mkdir="true"  base="prefs"/>
   <messagebox ru.text="Новое оформление загружено! Перезапустите JOSM для его применения." text="New icons downloaded! Please restart JOSM to apply." type="i"/>
 </config>
