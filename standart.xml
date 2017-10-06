@@ -1,0 +1,5 @@
+﻿<config>
+  <delete path="images"  base="prefs"/>
+  <download url="https://dl.dropboxusercontent.com/u/8010189/JOSM/Colorschemas/Standart/images.zip" path="images.zip" unzip="true" mkdir="true"  base="prefs"/>
+  <messagebox ru.text="Новое оформление загружено! Перезапустите JOSM для его применения." text="New icons downloaded! Please restart JOSM to apply." type="i"/>
+</config>
